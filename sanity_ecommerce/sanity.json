@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "makufoods"
   },
   "api": {
-    "projectId": "vfxfwnaw",
+    "projectId": "90vij920",
     "dataset": "production"
   },
   "plugins": [
