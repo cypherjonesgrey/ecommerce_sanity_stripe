@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.css';
 import { Toaster } from 'react-hot-toast';
 
 import { Layout } from '../components';
